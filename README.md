@@ -3,8 +3,7 @@
 
 My name is Beatriz, but you can call me BLOVEV.
 
-- I'm studying at Alura;
-- I enjoy programming and I'm learning about the JavaScript language;
+- I enjoy programming;
 - I use this space to save my projects and share them.
 ### You can contact me 📫
 blovevheart@gmail.com
